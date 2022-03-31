@@ -28,7 +28,7 @@ To interface a Seven Segment Display to the AT89S52 microcontroller
 ### Final list of Deliverables for Expt 3
 
 **Screenshots of:**
-- Seven Segment display interfacing circuit
+- Seven Segment display interfacing circuit schematic developed in KiCad
 - Hex codes to display numerical numbers 0-9
 - Delay function code
 - Video of display of numerical numbers
