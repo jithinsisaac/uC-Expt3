@@ -22,7 +22,7 @@ To interface a Seven Segment Display to the AT89S52 microcontroller
 
 ### Instructions
 
-1. Read about Seven Segment Display Interfacing with 8051 (Kenneth Ayala/ Mazidi)
+1. Read about Seven Segment Display Interfacing (Kenneth Ayala/ Mazidi)
 2. Use the Atmel 8051 Instruction sheet document to learn about the arithmetic instructions
 
 ### Final list of Deliverables for Expt 3
