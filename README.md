@@ -22,7 +22,7 @@ To interface a Seven Segment Display to the AT89S52 microcontroller
 
 ### Instructions
 
-1. Read about Internal RAM of 8051 from 8051-Kenneth Ayala book
+1. Read about Seven Segment Display Interfacing with 8051 (Kenneth Ayala/ Mazidi)
 2. Use the Atmel 8051 Instruction sheet document to learn about the arithmetic instructions
 
 ### Final list of Deliverables for Expt 3
@@ -32,6 +32,8 @@ To interface a Seven Segment Display to the AT89S52 microcontroller
 - Hex codes to display numerical numbers 0-9
 - Delay function code
 - Video of display of numerical numbers
+
+`Please add .asm files of all the codes executed, inside the experiment repository`
 
 ### Procedure 
 - **ADD THE PROCEDURE THAT YOU FOLLOWED FOR COMPLETING THE EXPERIMENT HERE**
